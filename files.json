@@ -1,1 +1,29 @@
-{}
+{
+  "libraries": [
+    {
+      "name": "net.neoforged:fmlloader:21.1.219",
+      "url": "https://maven.neoforged.net/releases/net/neoforged/fmlloader/1.21.1-21.1.219/fmlloader-1.21.1-21.1.219.jar",
+      "path": "net/neoforged/fmlloader/1.21.1-21.1.219/fmlloader-1.21.1-21.1.219.jar"
+    },
+    {
+      "name": "net.neoforged:neoforge:21.1.219",
+      "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.219/neoforge-21.1.219-client.jar",
+      "path": "net/neoforged/neoforge/21.1.219/neoforge-21.1.219-client.jar"
+    },
+    {
+      "name": "cpw.mods:securejarhandler:3.0.8",
+      "url": "https://maven.neoforged.net/releases/cpw/mods/securejarhandler/3.0.8/securejarhandler-3.0.8.jar",
+      "path": "cpw/mods/securejarhandler/3.0.8/securejarhandler-3.0.8.jar"
+    },
+    {
+      "name": "cpw.mods:bootstraplauncher:2.0.2",
+      "url": "https://maven.neoforged.net/releases/cpw/mods/bootstraplauncher/2.0.2/bootstraplauncher-2.0.2.jar",
+      "path": "cpw/mods/bootstraplauncher/2.0.2/bootstraplauncher-2.0.2.jar"
+    },
+    {
+      "name": "org.ow2.asm:asm:9.7",
+      "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm/9.7/asm-9.7.jar",
+      "path": "org/ow2/asm/asm/9.7/asm-9.7.jar"
+    }
+  ]
+}
